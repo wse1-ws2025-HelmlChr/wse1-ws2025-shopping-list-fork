@@ -3,9 +3,6 @@ birnen
 orangen
 bier
 leberkaese
-  -normal
-  -kaese
-  -pikant
 chips
 wurst
 kaese
